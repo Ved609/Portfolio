@@ -1,0 +1,29 @@
+.translucent-box {
+  position: relative;
+  width: 100vw; /* Set width to 100% of the viewport width */
+}
+.centered-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 70vh;
+}
+
+.contact-box {
+  position: absolute;
+  top: 105%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%; /* Set width to 100% */
+  background-color: rgba(128, 128, 128, 0.7); /* Translucent gray color */
+  padding: 20px;
+  text-align: center;
+}
+
+.contact-box h1 {
+  font-size: 2em; /* Adjust the font size as needed */
+  color: white; /* Text color */
+  margin-bottom: 0; /* Remove margin bottom for the heading */
+}
