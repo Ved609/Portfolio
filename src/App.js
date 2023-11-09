@@ -34,7 +34,7 @@ function App() {
           <img src={gifImage} alt="Centered GIF" width="600" height="400" />
           <div className="invisible-box">
             <h1>About Me</h1>
-           <p className="centered-text-bigger" style={{ marginBottom: '100px' }}>
+           <p className="centered-text-bigger" style={{ marginBottom: '120px' }}>
                 I am Ved Tusharbhai Patel, a 2nd-year student at SRM University, pursuing a Bachelor of Technology in the field of Computer Science. I'm enthusiastic about being a software engineer.
             </p> </div>
           <div className="contact-box">
