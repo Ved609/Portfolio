@@ -34,8 +34,9 @@ function App() {
           <img src={gifImage} alt="Centered GIF" width="600" height="400" />
           <div className="invisible-box">
             <h1>About Me</h1>
-            <p className="centered-text-bigger">I am Ved Tusharbhai Patel I'm a 2nd year student at SRM University, pursuing Bachelor Of Technology in the field of Computer Science. I'm enthusiastic about being a software Engineer.</p>
-          </div>
+           <p className="centered-text-bigger" style={{ marginBottom: '100px' }}>
+                I am Ved Tusharbhai Patel, a 2nd-year student at SRM University, pursuing a Bachelor of Technology in the field of Computer Science. I'm enthusiastic about being a software engineer.
+            </p> </div>
           <div className="contact-box">
             <h1>Contact Me</h1>
           </div>
