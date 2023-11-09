@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.ad870a59.chunk.css",
+    "main.js": "/Portfolio/static/js/main.c00d4656.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.c00d4656.chunk.js.map",
+    "runtime~main.js": "/Portfolio/static/js/runtime~main.1ee3f3bf.js",
+    "runtime~main.js.map": "/Portfolio/static/js/runtime~main.1ee3f3bf.js.map",
+    "static/js/2.329c713b.chunk.js": "/Portfolio/static/js/2.329c713b.chunk.js",
+    "static/js/2.329c713b.chunk.js.map": "/Portfolio/static/js/2.329c713b.chunk.js.map",
+    "static/js/3.ba8b7f13.chunk.js": "/Portfolio/static/js/3.ba8b7f13.chunk.js",
+    "static/js/3.ba8b7f13.chunk.js.map": "/Portfolio/static/js/3.ba8b7f13.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.30d9626e8174b16ef49fb64d418d30f4.js": "/Portfolio/precache-manifest.30d9626e8174b16ef49fb64d418d30f4.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/main.ad870a59.chunk.css.map": "/Portfolio/static/css/main.ad870a59.chunk.css.map",
+    "static/media/code.gif": "/Portfolio/static/media/code.03a4a5f0.gif",
+    "static/media/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.png": "/Portfolio/static/media/dbfe1f493ad01117fa4ec5ba10150e4d-computer-programming-logo.b35215bb.png"
+  }
+}
